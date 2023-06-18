@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-India"
-title                    : "Harsha L"
+title                    : "Harsha's Homepage"
 title_separator          : "-"
 name                     : &name "Harsha L"
 description              : &description "Final year BE student from Bangalore"
@@ -85,8 +85,7 @@ author:
   bio              : "As a mechanical engineering student in my final year, I love exploring new technologies and applying them to real-world problems."
   location         : "Bengaluru"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ac"
+  github           : "harshal7123"
   google_plus      :
   keybase          :
   instagram        :
