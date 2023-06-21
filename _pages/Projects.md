@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-##1.Major Project College - Modelling and Simulation of Ground Source Heat Pump.
+## 1.Major Project College - Modelling and Simulation of Ground Source Heat Pump.
 
 Abstract:
 As global living standards, economic growth, and population continue to rise, the demand for cooling 
@@ -28,7 +28,7 @@ Our Project has won "Best Project for Social Revelance" on the open day at Dayan
 
 
 
-##2.[Project](https://github.com/harshal7123/FCC_challenges) - Image Classification using Deep Learning.
+## 2.[Project](https://github.com/harshal7123/FCC_challenges) - Image Classification using Deep Learning.
 • Developed a deep learning model using TensorFlow and Keras to classify images of cats and dogs.
 • Preprocessed the images using data augmentation techniques and trained the model on a dataset of 2000
 images with 70 epochs.
