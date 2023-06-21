@@ -13,7 +13,7 @@ main:
     url: /teaching/  
 
   - title: "Projects"
-   url: /markdown/  
+    url: /markdown/  
 
 #  - title: "Talks"
 #    url: /talks/    
