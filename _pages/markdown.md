@@ -9,6 +9,13 @@ redirect_from:
 
 ## Locations of key files/directories
 
+Major Project - Modelling and Simulation of Ground Source Heat Pump.
+• To model a VCR system using suitable refrigerants in a simulation software.
+• To model the Ground source Heat pump (GSHP’s) using earth tube heat exchanger.
+• To assess the increase in COP and performance of GSHP vs Traditional VCR system and assess the
+feasibility. 
+![Photos of Award](/images/link1.JPG){: .align-right width="300px"}
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
