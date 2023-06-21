@@ -62,7 +62,7 @@ Project - Simulation of Vapor Compression Refrigeration Cycle.
 •	Simulating a VCR system with various conditions and refrigerants to make them more efficient in MATLAB Simscape.
 
 
-Major Project - Modelling and Simulation of Year around HVAC&R System with          (Ongoing Project)
+Major Project - Modelling and Simulation of Year around HVAC&R System with          
                              Geothermal Energy. 
 •	To model a VCR system using suitable refrigerants in a simulation software.
 •	To model the Ground source Heat pump (GSHP’s) using earth tube heat exchanger.
