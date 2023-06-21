@@ -21,7 +21,7 @@ Our Project has won "Best Project for Social Revelance" on the open day at Dayan
 
 ![Photos of Award](/images/open_day%20certficate.jpeg){: .align-centre width="400px"}
 ![Photos of Award](/images/link1.JPG){: .align-right width="300px"}
-![Photos of Award](/images/link2.JPG){: .align-left width="400px"}
+![Photos of Award](/images/link2.JPG){: .align-left width="400px"}.
 
 
 
