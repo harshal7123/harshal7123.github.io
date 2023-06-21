@@ -5,8 +5,8 @@ main:
     url: /files/Resume_Harsha.pdf
 
 
-  - title: "Publications"
-    url: /publications/
+# - title: "Publications"
+#   url: /publications/
 
 
   - title: "Teaching"
