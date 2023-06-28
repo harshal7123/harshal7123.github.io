@@ -24,10 +24,10 @@ Our Project has won "Best Project for Social Revelance" on the open day at Dayan
 
 <div class="image-grid">
     <div class="image-half">
-        <img src="/images/open_day%20certficate.jpeg" alt="Photos of Award" width="100%">
+        <img src="/images/open_day%20certficate.jpeg" alt="Photos of Award" width="50%">
     </div>
     <div class="image-half">
-        <img src="/images/link1.JPG" alt="Photos of Award" width="100%">
+        <img src="/images/link1.JPG" alt="Photos of Award" width="50%">
         <img src="/images/link2.JPG" alt="Photos of Award" width="100%">
     </div>
 </div>
