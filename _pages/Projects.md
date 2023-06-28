@@ -16,7 +16,7 @@ and air conditioning is set to surge in the next 30 years. Currently, refrigerat
 conditioning account for around 17% of global energy consumption, equivalent to approximately 2000 TWh. Without improvements in energy efficiency or the introduction of new technologies, electricity usage could triple by 2050. 
 
 
-[Our project](files\Final_Phase_Project_Report.pdf) aims to simulate Ground Source Heat Pumps, which enhance the effectiveness of heat pumps and significantly increase energy savings. By optimizing the operation of these heat pumps, we can help address the growing demand for cooling and Heating while minimizing energy consumption.
+[Our project](/files/Final_Phase_Project_Report.pdf) aims to simulate Ground Source Heat Pumps, which enhance the effectiveness of heat pumps and significantly increase energy savings. By optimizing the operation of these heat pumps, we can help address the growing demand for cooling and Heating while minimizing energy consumption.
 
 Our Project has won "Best Project for Social Revelance" on the open day at Dayananda Sagar College of Engineering.
 
@@ -27,8 +27,7 @@ Our Project has won "Best Project for Social Revelance" on the open day at Dayan
         <img src="/images/open_day%20certficate.jpeg" alt="Photos of Award" width="50%">
     </div>
     <div class="image-half">
-        <img src="/images/link1.JPG" alt="Photos of Award" width="50%">
-        <img src="/images/link2.JPG" alt="Photos of Award" width="100%">
+        <img src="/images/link1.JPG" alt="Photos of Award" width="50%"> <img src="/images/link2.JPG" alt="Photos of Award" width="100%">
     </div>
 </div>
 
