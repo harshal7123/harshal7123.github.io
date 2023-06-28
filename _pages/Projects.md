@@ -17,8 +17,9 @@ As global living standards, economic growth, and population continue to rise, th
  Our project aims to simulate Ground Source Heat Pumps, which enhance the effectiveness of heat pumps and significantly increase energy savings. By optimizing the operation of these heat pumps, we can help address the growing demand for cooling and Heating while minimizing energy consumption.
 </div>
 
+<div>
 [Our project](files\Final_Phase_Project_Report.pdf) has won "Best Project for Social Revelance" on the open day at Dayananda Sagar College of Engineering.
-
+</div>
 
 
 <div class="image-grid">
