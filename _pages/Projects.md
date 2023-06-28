@@ -18,7 +18,7 @@ As global living standards, economic growth, and population continue to rise, th
 </div>
 
 <div style="text-align: justify;">
-[Our project](/files/Final_Phase_Project_Report.pdf) has won "Best Project for Social Revelance" on the open day at Dayananda Sagar College of Engineering.
+[Our project](/files\Final_Phase_Project_Report.pdf) has won "Best Project for Social Revelance" on the open day at Dayananda Sagar College of Engineering.
 </div>
 
 
