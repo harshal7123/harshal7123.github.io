@@ -9,6 +9,7 @@ redirect_from:
 
 ## 1. Major Project College - Modelling and Simulation of Ground Source Heat Pump.
 [The Report](/files\Final_Phase_Project_Report.pdf) 
+
 <div style="text-align: justify;">
 Abstract:
 As global living standards, economic growth, and population continue to rise, the demand for cooling and air conditioning is set to surge in the next 30 years. Currently, refrigeration and air conditioning account for around 17% of global energy consumption, equivalent to approximately 2000 TWh. Without improvements in energy efficiency or the introduction of new technologies, electricity usage could triple by 2050. 
