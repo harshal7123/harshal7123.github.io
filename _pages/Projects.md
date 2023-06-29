@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 1. Major Project College - Modelling and Simulation of Ground Source Heat Pump.
-[The Report](/files\Final_Phase_Project_Report.pdf) 
+
 
 <div style="text-align: justify;">
 Abstract:
@@ -18,13 +18,14 @@ As global living standards, economic growth, and population continue to rise, th
 Our project aims to simulate Ground Source Heat Pumps, which enhance the effectiveness of heat pumps and significantly increase energy savings. By optimizing the operation of these heat pumps, we can help address the growing demand for cooling and Heating while minimizing energy consumption.
  
 Our project won "Best Project for Social Relevance" on the open day at Dayananda Sagar College of Engineering.
-</div>
 
+[Report](/files\Final_Phase_Project_Report.pdf) 
+</div>
 
 <div class="image-grid">
     <div class="image-half">
         <img src="/images/open_day%20certficate.jpeg" alt="Photos of Award" width="50%" align-left>
-        <img src="/images/link1.JPG" alt="Photos of Award" width="50%" align-right> <img src="/images/link2.JPG" alt="Photos of Award" width="100%">
+        <img src="/images/link1.JPG" alt="Photos of Award" width="50%" align-left> <img src="/images/link2.JPG" alt="Photos of Award" width="100%">
     </div>
 </div>
 
