@@ -9,6 +9,7 @@ location: "City, Country"
 ---
 
 ![Certificate of MAD](/files/Mad_certificate.png){: .align-right width="300px"}
+<div style="text-align: justify;">
 As an Academic Support Volunteer at Make a Difference (MAD), an NGO dedicated to 
 empowering underprivileged students, I had the privilege of teaching Math and Science to 
 9th and 10th-grade students. It was an immensely rewarding experience to support these 
@@ -19,6 +20,7 @@ My time with MAD has not only honed my teaching skills but has also deepened my 
 to making a difference in the lives of underprivileged youth. I am proud to have been a part 
 of this transformative journey and look forward to continuing my pursuit of educational empowerment.
 
+</div>
 
 
 
