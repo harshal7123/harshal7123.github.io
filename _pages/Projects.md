@@ -22,8 +22,9 @@ Abstract:
 ---
 <div class="image-grid">
     <div class="image-half">
-        <img src="/images/open_day%20certficate.jpeg" alt="Photos of Award" width="50%" align-left> <img src="/images/link1.JPG" alt="Photos of Award" width="50%" align-right> 
-        <img src="/images/link2.JPG" alt="Photos of Award" width="100%">
+      <img src/images/open_day%20certficate.jpeg" width="200" height="100">
+      <img src="/images/open_day%20certficate.jpeg" alt="Photos of Award" width="50%" align-left> <img src="/images/link1.JPG" alt="Photos of Award" width="50%" align-right> 
+      <img src="/images/link2.JPG" alt="Photos of Award" width="100%">
     </div>
 </div>
 ---
