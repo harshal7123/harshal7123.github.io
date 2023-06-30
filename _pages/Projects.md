@@ -31,6 +31,6 @@ Abstract:
 
 ## 2. [Project](https://github.com/harshal7123/FCC_challenges) - Image Classification using Deep Learning.
 
-• Developed a deep learning model using TensorFlow and Keras to classify images of cats and dogs.
-• Preprocessed the images using data augmentation techniques and trained the model on a dataset of 2000 images with 70 epochs.
-• Achieved an accuracy of 76% on the test set.
++ Developed a deep learning model using TensorFlow and Keras to classify images of cats and dogs.
++ Preprocessed the images using data augmentation techniques and trained the model on a dataset of 2000 images with 70 epochs.
++ Achieved an accuracy of 76% on the test set.
